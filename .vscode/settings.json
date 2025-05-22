@@ -1,7 +1,16 @@
 {
-    "java.project.sourcePaths": ["src"],
+    "java.project.sourcePaths": [
+        "src"
+    ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "c:\\Users\\sam\\OneDrive\\Documents\\Folder Tugas Elia\\PBO\\PBO-TODOLIST-WITH-JAVAFX\\lib\\javafx-sdk-21.0.7\\lib\\javafx-swt.jar",
+        "c:\\Users\\sam\\OneDrive\\Documents\\Folder Tugas Elia\\PBO\\PBO-TODOLIST-WITH-JAVAFX\\lib\\javafx-sdk-21.0.7\\lib\\javafx.base.jar",
+        "c:\\Users\\sam\\OneDrive\\Documents\\Folder Tugas Elia\\PBO\\PBO-TODOLIST-WITH-JAVAFX\\lib\\javafx-sdk-21.0.7\\lib\\javafx.swing.jar",
+        "c:\\Users\\sam\\OneDrive\\Documents\\Folder Tugas Elia\\PBO\\PBO-TODOLIST-WITH-JAVAFX\\lib\\javafx-sdk-21.0.7\\lib\\javafx.media.jar",
+        "c:\\Users\\sam\\OneDrive\\Documents\\Folder Tugas Elia\\PBO\\PBO-TODOLIST-WITH-JAVAFX\\lib\\javafx-sdk-21.0.7\\lib\\javafx.graphics.jar",
+        "c:\\Users\\sam\\OneDrive\\Documents\\Folder Tugas Elia\\PBO\\PBO-TODOLIST-WITH-JAVAFX\\lib\\javafx-sdk-21.0.7\\lib\\javafx.fxml.jar",
+        "c:\\Users\\sam\\OneDrive\\Documents\\Folder Tugas Elia\\PBO\\PBO-TODOLIST-WITH-JAVAFX\\lib\\javafx-sdk-21.0.7\\lib\\javafx.web.jar",
+        "c:\\Users\\sam\\OneDrive\\Documents\\Folder Tugas Elia\\PBO\\PBO-TODOLIST-WITH-JAVAFX\\lib\\javafx-sdk-21.0.7\\lib\\javafx.controls.jar"
     ]
 }
